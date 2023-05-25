@@ -1,0 +1,58 @@
+{
+   "locations": [
+      {
+         "latitude": 37.5665,
+         "longitude": 126.9780,
+         "scooters": [
+            {
+               "id": "scooter001",
+               "battery": 70,
+               "repair": false
+            },
+            {
+               "id": "scooter002",
+               "battery": 50,
+               "repair": false
+            },
+            {
+               "id": "scooter003",
+               "battery": 30,
+               "repair": true
+            }
+         ]
+      },
+      {
+         "latitude": 37.5670,
+         "longitude": 126.9785,
+         "scooters": [
+            {
+               "id": "scooter002",
+               "battery": 50,
+               "repair": false
+            }
+         ]
+      },
+      {
+         "latitude": 37.5665,
+         "longitude": 126.9795,
+         "scooters": [
+            {
+               "id": "scooter003",
+               "battery": 30,
+               "repair": true
+            }
+         ]
+      },
+      {
+         "latitude": 37.5660,
+         "longitude": 126.9800,
+         "scooters": [
+            {
+               "id": "scooter004",
+               "battery": 90,
+               "repair": false
+            }
+         ]
+      }
+   ]
+}
